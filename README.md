@@ -12,7 +12,7 @@ Node.js - Express.js - PostgreSQL- Prisma - pg (SQL Puro) - dotenv - zod (para v
 
 
 Download e Instalação
-Clone o Repositório:git clone <URL_DO_SEU_REPOSITORIO>
+Clone o Repositório:git clone https://github.com/peedro2/Desafio-Tecnico-Vaga-Node.js.git
 cd Desafio-Tecnico-Vaga-Node.js
 
 Crie os Ficheiros .env nas duas pastas Prisma e SqlPuro
