@@ -47,11 +47,11 @@ Como Executar
 Após a instalação e configuração do banco de dados, pode iniciar os servidores.
 versão Prisma:
 cd Prisma
-node server.js
+npm run dev
 ou
 versão SQL Puro:
 cd SqlPuro
-node server.js
+npm run dev
 
 Endpoints da API
 Ambas as versões contem os seguintes endpoints:
